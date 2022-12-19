@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borisdundakov&show_icons=true&locale=en&layout=compact" alt="borisdundakov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borisdundakov&show_icons=true&locale=en&is_fork=ghgh" alt="borisdundakov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borisdundakov&show_icons=true&locale=en&isPrivate=True" alt="borisdundakov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borisdundakov&" alt="borisdundakov" /></p>
