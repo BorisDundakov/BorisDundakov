@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bash, GithubActions, Jenkins and many more DevOps tools**
 
-- 📫 How to reach me **boris.stefan.de@gmail.com**
+- 📫 You can reach me at **boris.stefan.de@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
