@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">An aspiring Devops Engineneer</h3>
 
+
 - 🌱 I’m currently learning **Bash, GithubActions, Jenkins and many more DevOps tools**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
