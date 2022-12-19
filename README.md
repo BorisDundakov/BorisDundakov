@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">An aspiring Devops Engineneer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=borisdundakov&label=Profile%20views&color=0e75b6&style=flat" alt="borisdundakov" /> </p>
-
 - 🌱 I’m currently learning **Bash, GithubActions, Jenkins and many more DevOps tools**
 
 <h3 align="left">Connect with me:</h3>
