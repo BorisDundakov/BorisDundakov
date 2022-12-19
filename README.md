@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">An aspiring Devops Engineneer</h3>
 
-- ![image](https://user-images.githubusercontent.com/71731579/208468166-8c469989-7416-4a79-818d-85fbb878442d.png) I'm from **Sofia, Bulgaria**
+- 🏠 I'm from **Sofia, Bulgaria**
 
 - 🌱 I’m currently learning **Bash, GithubActions, Jenkins and many more DevOps tools**
 
