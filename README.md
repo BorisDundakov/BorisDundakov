@@ -20,7 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borisdundakov&show_icons=true&locale=en" alt="borisdundakov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borisdundakov&" alt="borisdundakov" /></p>
-
-[![GitHub Trends SVG]<p><img align="left" src="https://api.githubtrends.io/user/svg/BorisDundakov/langs" /></p>
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
