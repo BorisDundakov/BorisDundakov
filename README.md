@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borisdundakov&" alt="borisdundakov" /></p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/BorisDundakov/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/BorisDundakov/langs&langs_count=10)](https://githubtrends.io)
