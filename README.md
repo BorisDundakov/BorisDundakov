@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=borisdundakov&show_icons=true&locale=en" alt="borisdundakov" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=borisdundakov&" alt="borisdundakov" /></p>
+
+
+<p><img align="left" src="https://api.githubtrends.io/user/svg/BorisDundakov/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=synthwaves" alt="borisdundakov" </p>
