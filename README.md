@@ -25,7 +25,7 @@
 <br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=borisdundakov&show_icons=true&locale=en" alt="borisdundakov" /><br></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=borisdundakov&show_icons=true&locale=en" alt="borisdundakov" /><br></p>
 <br>
 <br>
 <br>
