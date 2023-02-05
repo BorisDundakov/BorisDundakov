@@ -3,7 +3,7 @@
 
 - 🏠 I'm from **Sofia, Bulgaria**
 
-- 🌱 I’m currently learning **Bash, GithubActions, Jenkins and many more DevOps tools**
+- 🌱 I’m currently learning **Bash, GithubActions, Docker and many more DevOps tools**
 
 - 📫 You can reach me at **boris.stefan.de@gmail.com**
 
