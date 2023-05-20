@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
-<h3 align="center">And I am a Devops Engineneer</h3>
+<h3 align="center">And I am a DevOps Engineer</h3>
 
 - 🏠 I'm from **Sofia, Bulgaria**
 
