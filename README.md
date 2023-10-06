@@ -3,7 +3,9 @@
 
 - 🏠 I'm from **Sofia, Bulgaria**
 
-- 🌱 I’m currently focused on **Jenkins, Docker, Kubernetes, GithubActions, Azure and many more DevOps tools**
+- 🌱 Currently focused on **Jenkins, Docker, Kubernetes, GithubActions and many more DevOps tools**
+
+- 🧠 Interested in exploring **AI** with an initial focus on **Machine Learning** 
 
 - 📫 You can reach me at **boris.stefan.de@gmail.com**
 
