@@ -3,7 +3,7 @@
 
 - 🏠 I'm from **Sofia, Bulgaria**
 
-- 🌱 Currently focused on **Azure, Docker, Kubernetes, GithubActions and many more DevOps tools**
+- 🌱 Currently focused on **Jenkins, Azure, Docker, Kubernetes, GithubActions and many more DevOps tools**
 
 - 📫 You can reach me at **boris.stefan.de@gmail.com**
 
